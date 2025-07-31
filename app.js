@@ -1,1 +1,1 @@
-console.log("Olá, mundo! Fazendo o desafio local para o navegador");
+console.log("Olá, mundo! Resolvendo o desafio fazendo o Merge do upload da branch local com a do navegador");
